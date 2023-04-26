@@ -10,3 +10,8 @@
 
 # Add an `id` called "bio-image" for the bio image.
 
+# styling of CSS:
+ * body section: Create background color; font style; font color; padding; margin.
+ * target id's by using different width and styled.
+ * target h1, h2 and links to change color.
+  
