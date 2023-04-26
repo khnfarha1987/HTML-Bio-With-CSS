@@ -15,3 +15,5 @@
  * target id's by using different width and styled.
  * target h1, h2 and links to change color.
   
+# Application screenshots:
+![alt](./images/img1.png)
